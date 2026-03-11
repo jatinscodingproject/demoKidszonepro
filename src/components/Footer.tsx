@@ -17,7 +17,7 @@ const Footer: React.FC = () => {
         © {currentYear}{" "}
         <span className="text-orange-500 font-medium">
           Kidszone
-        </span>. All rights reserved. Powered by Bold Media Digital.
+        </span>. All rights reserved.
       </div>
 
     </footer>
